@@ -56,3 +56,10 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/otienoofelix/Predicting-High-Traffic-Recipe.git
 cd Predicting-High-Traffic-Recipe
+```
+Feel free to fork this repository, contribute, or provide feedback! 🚀
+
+### **Author**
+👤 Felix Odhiambo<br/>
+📧 Contact: otienofelix@live.com<br/>
+🔗 LinkedIn: https://www.linkedin.com/in/felixoodhiambo/
